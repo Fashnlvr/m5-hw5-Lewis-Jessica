@@ -85,4 +85,5 @@ footer {
     background: white;
     text-align: center;
     padding: 40px 0;
+    display: inline-block;
 }
