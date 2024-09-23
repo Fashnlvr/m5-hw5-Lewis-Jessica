@@ -19,6 +19,7 @@ body {
 header {
     background: white;
     padding: 40px;
+    display: inline-block;
 }
 
 h1 {
