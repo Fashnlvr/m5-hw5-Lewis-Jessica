@@ -9,15 +9,9 @@ body {
     background: url(https://www.toptal.com/designers/subtlepatterns/uploads/watercolor.png);
 }
 
-.container {
-    max-width: 1200px;
-    margin: 20px;
-}
-
 header {
     background: white;
     padding: 40px 30px 40px 80px;
-    text-align: center;
 }
 
 h1 {
