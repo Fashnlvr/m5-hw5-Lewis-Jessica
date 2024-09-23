@@ -52,13 +52,14 @@ nav a {
 }
 
 main {
-    width: 50%;
+    width: 68%;
     display: inline-block;
     background: white;
+    padding: 20px;
 }
 
 aside {
-    width: 20%;
+    width: 25%;
     display: inline-block;
     vertical-align: top;
     background: white;
