@@ -23,3 +23,17 @@ nav ul li {
     display: inline;
     margin-right: 10px;
 }
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+aside ul {
+    list-style-type: none;
+}
+
+aside ul li {
+    margin-bottom: 10px;
+}
