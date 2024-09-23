@@ -9,7 +9,17 @@ body {
     background: url(https://drive.google.com/uc?export=download&id=1ZQrJJpxx6axW-An3yAB_F_jX6ostjmyi);
 }
 
-header {
+header, footer {
     background: white;
     padding: 40px 60px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
 }
