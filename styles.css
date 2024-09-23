@@ -24,25 +24,37 @@ h1 {
     display: inline-block;
 }
 
-nav ul {
-    list-style-type: none;
+nav {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 10px;
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    background: orange;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.subheading--orangered {
+    color: orangered;
 }
 
 main {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
+    width: 70%;
+    display: inline-block;
+    background: white;
 }
 
-aside ul {
-    list-style-type: none;
-}
-
-aside ul li {
-    margin-bottom: 10px;
+aside {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    background: white;
 }
