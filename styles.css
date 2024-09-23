@@ -42,6 +42,10 @@ nav a {
     border-radius: 5px;
 }
 
+.subheading {
+    font-size: 32px;
+}
+
 .subheading--orangered {
     color: orangered;
 }
