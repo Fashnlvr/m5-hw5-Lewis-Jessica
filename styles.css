@@ -7,7 +7,7 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: url(https://www.toptal.com/designers/subtlepatterns/uploads/watercolor.png);
-    display: flexbox;
+    display: flex;
 }
 
 .container {
@@ -19,8 +19,6 @@ body {
 header {
     background: white;
     padding: 40px;
-    display: inline-block;
-    top: auto;
 }
 
 h1 {
@@ -86,6 +84,4 @@ footer {
     background: white;
     text-align: center;
     padding: 40px 0;
-    display: inline-block;
-    bottom: auto;
 }
