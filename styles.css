@@ -22,6 +22,7 @@ header {
 h1 {
     width: 58%;
     display: inline-block;
+    color: lightpink;
 }
 
 nav {
@@ -46,8 +47,8 @@ nav a {
     font-size: 32px;
 }
 
-.subheading--orangered {
-    color: orangered;
+.subheading--orange {
+    color: orange;
 }
 
 main {
