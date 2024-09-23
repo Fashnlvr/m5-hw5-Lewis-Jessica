@@ -57,6 +57,7 @@ main {
     display: inline-block;
     background: white;
     padding: 20px;
+    align-items: center;
 }
 
 aside {
